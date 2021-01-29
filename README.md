@@ -10,6 +10,6 @@ Trucks are visible on an iPhone SE 2nd generation (physical device):
 
 No visible Trucks on an iPhone 12 Pro Max (Simulator):
 
-[NO Trucks at the center the image](https://github.com/omatrot/wkwebview/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-01-29%20at%2009.22.19%20Trucks%20are%20invisible.png)
+[NO Trucks at the center of the image](https://github.com/omatrot/wkwebview/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-01-29%20at%2009.22.19%20Trucks%20are%20invisible.png)
 
 You can also open the [HMTL page](https://github.com/omatrot/wkwebview/blob/main/wkwebview/map.html) directly in Safari/Chrome to see that it works there too.
