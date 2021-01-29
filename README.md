@@ -6,7 +6,7 @@ it displays a map with trucks images at its center.
 
 Trucks are visible on an iPhone SE 2nd generation (physical device):
 
-[Trucks visible at the center of the image](https://github.com/omatrot/wkwebview/blob/main/iPhone%20SE%202nd%20gen%20trucks%20are%20ok.jpeg)
+[Trucks visible at the center of the image](https://github.com/omatrot/wkwebview/blob/main/iPhone%20SE%202nd%20gen%20trucks%20are%20ok.jpeg) just above the credentials warning.
 
 No visible Trucks on an iPhone 12 Pro Max (Simulator):
 
