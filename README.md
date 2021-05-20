@@ -1,6 +1,6 @@
 # wkwebview
 
-This repo contains a small ios App that exhibits a problem with wkwebview on some iOS devices.
+This repo contains a small Swift iOS App that exhibits a problem with wkwebview on some iOS devices.
 
 it displays a map with trucks images at its center.
 
